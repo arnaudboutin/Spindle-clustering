@@ -1,2 +1,2 @@
 # Spindle-clustering
-See the labdoyon Github for the original code (available soon...)
+See the labdoyon Github https://github.com/labdoyon/ for the original code (available soon...)
